@@ -1,3 +1,8 @@
+---
+name: spreadsheet-analysis
+description: Analyze workbooks/CSVs, cross-reference sheets, and rank results from source data without inventing values.
+---
+
 # Skill: Spreadsheet Analysis
 
 Use when answering questions from a workbook or CSV.

@@ -1,3 +1,8 @@
+---
+name: evidence-driven-debugging
+description: Debug software by tracing expected versus actual state across system boundaries and fixing the earliest divergence.
+---
+
 # Skill: Evidence-Driven Debugging
 
 1. Reproduce/inspect the symptom.

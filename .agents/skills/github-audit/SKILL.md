@@ -1,3 +1,8 @@
+---
+name: github-audit
+description: Audit a GitHub repository deeply using its actual files, architecture, history, validation commands, and concrete evidence.
+---
+
 # Skill: GitHub Repository Audit
 
 Use for full-project investigation.

@@ -1,3 +1,8 @@
+---
+name: safe-repository-editing
+description: Make targeted repository changes after inspection, preserve conventions, inspect diffs, and run project-native validation.
+---
+
 # Skill: Safe Repository Editing
 
 - Read before writing.

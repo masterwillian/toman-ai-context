@@ -1,3 +1,8 @@
+---
+name: blender-agent-operations
+description: Operate Blender through inspect-change-verify loops with stable object identities, checkpoints, and visual/geometric validation.
+---
+
 # Skill: Blender Agent Operations
 
 ## Goal
