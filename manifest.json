@@ -1,0 +1,12 @@
+{
+  "name": "toman-ai-context",
+  "version": "1.0.0",
+  "purpose": "Portable operating context for ChatGPT, Codex and local AI agents",
+  "entrypoints": {
+    "global": "AGENTS.md",
+    "index": "context/INDEX.md",
+    "local_model": "prompts/BOOTSTRAP_LOCAL_MODEL.md"
+  },
+  "context_policy": "Load only relevant project/workflow context",
+  "secret_policy": "No credentials, tokens, passwords or private invite codes"
+}
